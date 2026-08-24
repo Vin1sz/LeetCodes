@@ -1,14 +1,15 @@
-# ð§© LeetCode: SoluÃ§Ãµes e PrÃ¡tica de Algoritmos
+# 🧩 LeetCode: Soluções e Prática de Algoritmos
 
-> 
-*âAll the time you're saying to yourself, 'I could do that, but I won't,' â which is just another way of saying that you can't.â*
-> â **Richard Feynman**
+> *"All the time you're saying to yourself, 'I could do that, but I won't,' — which is just another way of saying that you can't."*  
+> — **Richard Feynman**
 
 ---
 
-### ð Sobre o RepositÃ³rio
+### 📌 Sobre o Repositório
 
-Este repositÃ³rio contÃ©m minhas resoluÃ§Ãµes e otimizaÃ§Ãµes de problemas da plataforma **LeetCode**. O objetivo principal Ã© aprimorar conceitos de estruturas de dados, algoritmos e complexidade computacional (Big O).
+Este repositório contém minhas resoluções e otimizações de problemas da plataforma **LeetCode**. O objetivo principal é aprimorar conceitos de estruturas de dados, algoritmos e complexidade computacional (Big O).
+
+---
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
