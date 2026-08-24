@@ -1,4 +1,4 @@
-# 🧩 LeetCode Solutions & Algorithm Practice
+# 🧩 LeetCode: Soluções e Prática de Algoritmos
 
 > 
 *“All the time you're saying to yourself, 'I could do that, but I won't,' — which is just another way of saying that you can't.”*
