@@ -1,14 +1,14 @@
-# 🧩 LeetCode: Soluções e Prática de Algoritmos
+# ð§© LeetCode: SoluÃ§Ãµes e PrÃ¡tica de Algoritmos
 
 > 
-*“All the time you're saying to yourself, 'I could do that, but I won't,' — which is just another way of saying that you can't.”*
-> — **Richard Feynman**
+*âAll the time you're saying to yourself, 'I could do that, but I won't,' â which is just another way of saying that you can't.â*
+> â **Richard Feynman**
 
 ---
 
-### 📌 Sobre o Repositório
+### ð Sobre o RepositÃ³rio
 
-Este repositório contém minhas resoluções e otimizações de problemas da plataforma **LeetCode**. O objetivo principal é aprimorar conceitos de estruturas de dados, algoritmos e complexidade computacional (Big O).
+Este repositÃ³rio contÃ©m minhas resoluÃ§Ãµes e otimizaÃ§Ãµes de problemas da plataforma **LeetCode**. O objetivo principal Ã© aprimorar conceitos de estruturas de dados, algoritmos e complexidade computacional (Big O).
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -20,4 +20,13 @@ Este repositório contém minhas resoluções e otimizações de problemas da pl
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Vin1sz/LeetCodes/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Vin1sz/LeetCodes/tree/master/0013-roman-to-integer) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Vin1sz/LeetCodes/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Vin1sz/LeetCodes/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
