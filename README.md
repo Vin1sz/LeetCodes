@@ -11,18 +11,6 @@ This repository contains my solutions and optimizations for **LeetCode** problem
 
 ---
 
-<!---Start-LeetCode-Code-Start--->
-### LeetCode Topics
-
-<!---End-LeetCode-Code-End--->
-
----
-
-### [Structure]
-
-* `solutions/` - Contains solution files organized by problem ID and topic.
-* `notes/` - Custom notes on algorithms and data structures.
-
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
