@@ -1,15 +1,27 @@
-# 🧩 LeetCode: Soluções e Prática de Algoritmos
+# [LeetCode] Solutions & Algorithm Practice
 
 > *"All the time you're saying to yourself, 'I could do that, but I won't,' — which is just another way of saying that you can't."*  
 > — **Richard Feynman**
 
 ---
 
-### 📌 Sobre o Repositório
+### [About]
 
-Este repositório contém minhas resoluções e otimizações de problemas da plataforma **LeetCode**. O objetivo principal é aprimorar conceitos de estruturas de dados, algoritmos e complexidade computacional (Big O).
+This repository contains my solutions and optimizations for **LeetCode** problems. The main objective is to practice Data Structures, Algorithms, and Computational Complexity (Big O).
 
 ---
+
+<!---Start-LeetCode-Code-Start--->
+### LeetCode Topics
+
+<!---End-LeetCode-Code-End--->
+
+---
+
+### [Structure]
+
+* `solutions/` - Contains solution files organized by problem ID and topic.
+* `notes/` - Custom notes on algorithms and data structures.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
