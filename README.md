@@ -1,7 +1,7 @@
 # [LeetCode] Solutions & Algorithm Practice
 
-> *"All the time you're saying to yourself, 'I could do that, but I won't,' — which is just another way of saying that you can't."*  
-> — **Richard Feynman**
+> *"All the time you're saying to yourself, 'I could do that, but I won't,' â which is just another way of saying that you can't."*  
+> â **Richard Feynman**
 
 ---
 
@@ -29,5 +29,18 @@ This repository contains my solutions and optimizations for **LeetCode** problem
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vin1sz/LeetCodes/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Vin1sz/LeetCodes/tree/master/0013-roman-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vin1sz/LeetCodes/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vin1sz/LeetCodes/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vin1sz/LeetCodes/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
